@@ -7,3 +7,7 @@
 3. openCV_3.py : 이미지 연결
 
 4. openCV_4.py : 이미지 회전, 반전
+
+5. openCV_5.py : 이미지 임계값 처리
+
+6. openCV_6.py : 이미지 지정 범위 추출
