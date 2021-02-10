@@ -1,5 +1,4 @@
 import cv2
-import matplotlib.pyplot as plt
 
 # 1. 이미지 흑백으로 읽어오기
 image = cv2.imread('dogs.jpg', cv2.IMREAD_GRAYSCALE)
