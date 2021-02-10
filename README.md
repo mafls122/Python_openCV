@@ -5,3 +5,5 @@
 2. openCV_2.py : 이미지 흑백 처리
 
 3. openCV_3.py : 이미지 연결
+
+4. openCV_4.py : 이미지 회전, 반전
