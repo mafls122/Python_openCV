@@ -31,6 +31,5 @@ def img_tile(img_list):
 img_tile_res = img_tile( [[ img1, img1, img1 ], [ img1, img1, img1 ], [ img1, img1, img1 ]] )
 cv2.imshow("img_tile", img_tile_res)
 
-
 cv2.waitKey(0)
 cv2.destroyWindow()
