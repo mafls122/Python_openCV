@@ -25,3 +25,5 @@
 12. openCV_12.py : 마우스 이벤트 속성 활용
 
 13. openCV_13.py : 캠 활용한 동영상 촬영 및 저장
+
+14. openCV_14.py : 이미지 bitwise 처리
