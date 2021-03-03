@@ -27,3 +27,7 @@
 13. openCV_13.py : 캠 활용한 동영상 촬영 및 저장
 
 14. openCV_14.py : 이미지 bitwise 처리
+
+15. openCV_15.py : 이미지 r,b,g 값 히스토그램 시각화
+
+16. openCV_16.py : 이미지 감마 처리
